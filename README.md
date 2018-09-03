@@ -54,7 +54,7 @@ Certification](http://www.foreignlaborcert.doleta.gov/performancedata.cfm).
 
 List or related resources.
 1. The Tableau dashboard -
-2. [SPAP]((https://github.com/gauscian/US-VISA-Data-Analysis/blob/master/What%20maximizes%20the%20chances%20of%20a%20US%20-%20VISA%20being%20Certified%20%20.png))
+2. [SPAP](https://github.com/gauscian/US-VISA-Data-Analysis/blob/master/What%20maximizes%20the%20chances%20of%20a%20US%20-%20VISA%20being%20Certified%20%20.png)
 
 The last layer of the SPAP defines the numbers I use here to conclude on my findings about the respective Independent variables.<br>
 
