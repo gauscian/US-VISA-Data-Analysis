@@ -30,10 +30,9 @@ called “the prevailing wage.” This publically available data provides a uniq
 of salaries you might encounter for different data–related jobs in the US.<br>
 
 <p style="text-align: center;"> *Skewed nature of the data*</p>
-<br>
-![here](https://github.com/gauscian/US-VISA-Data-Analysis/blob/master/Skewed-data-wrt-case-status.png)<br><br>
+![here](https://github.com/gauscian/US-VISA-Data-Analysis/blob/master/Skewed-data-wrt-case-status.png)
 
-This skewed nature makes the predictive modelling around case status impractical.
+<br>This skewed nature makes the predictive modelling around case status impractical.
 
 
 
