@@ -54,7 +54,7 @@ Certification](http://www.foreignlaborcert.doleta.gov/performancedata.cfm).
 
 ### My Analysis of the problem.
 
-List or related resources.
+List of related resources.
 1. The Tableau [dashboard](https://public.tableau.com/shared/32BSS87B3?:display_count=yes)
 2. [SPAP](https://github.com/gauscian/US-VISA-Data-Analysis/blob/master/What%20maximizes%20the%20chances%20of%20a%20US%20-%20VISA%20being%20Certified%20%20.png)
 
