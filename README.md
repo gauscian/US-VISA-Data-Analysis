@@ -29,7 +29,7 @@ employee with similar skills and background typically gets paid for the same pos
 called “the prevailing wage.” This publically available data provides a unique view into what types
 of salaries you might encounter for different data–related jobs in the US.<br>
 
-*Skewed nature of the data* - please click [here](https://github.com/gauscian/US-VISA-Data-Analysis/blob/master/Skewed-data-wrt-case-status.png)<br>
+*Skewed nature of the data* - please click ![here](https://github.com/gauscian/US-VISA-Data-Analysis/blob/master/Skewed-data-wrt-case-status.png)<br>
 This skewed nature makes the predictive modelling around case status impractical.
 
 
