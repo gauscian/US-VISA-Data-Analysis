@@ -1,18 +1,18 @@
 # US-VISA-Data-Analysis
 
 ## Why am I creating this repo?
-This mini project is dedicated to proposing an [organized way](https://www.coursera.org/learn/analytics-tableau) of working through a Data Science problem. I see Data Analysis as the most important part of a data science project. If you do not know your data well, you can never produce conclusive results. In addition to this it is particularly impossible to model a data effectively if you do know how your fields impact you target attribute. <br> Further, In my experience the only stand alone reason for the cloud around the definition of Data Science is actually the absence of a defined paradigm for solving the Data Science problem.<br>
+This mini project is dedicated to proposing an [organized way](https://www.coursera.org/learn/analytics-tableau) of working through a Data Science problem. I see Data Analysis as the most important part of a data science project. If you do not know your data well, you can never produce conclusive results. In addition to this it is particularly impossible to model a data effectively if you do know how your fields impact the target attribute. <br> Further, according my observation the only stand alone reason for the cloud around the definition of Data Science is actually the absence of a defined paradigm for solving the Data Science problem.<br>
 
  > For me Data Science is an art of first being passionate about your problem, understanding the problem statement, collecting the relevant data and analyze it to solve the problem at hand.
 
  I think this is pretty much I try to do with each one of my data science project. Let me try to break down my definition of data science. <br>
 
- 1. Being passionate about your problem - This allows you to put in the required amount of mental resources to actually think about the problem and formulate a problem statement. i.e a Specific, Measurable, Attainable, Relevant, Time bound (SMART goal). For instance, if you aspire to come to USA to have a taste of real innovation, you might wonder about the most successful route of getting your VISA approved.
- 2. After you are down with your problem statement, you should have a dependent variable, the variable you want to make conclusions about. Here it is Case Status.
- 3. Followed by this you might want to think about the independent variables, the variables that would affect this dependent variable.
- 4. Further you can go ahead and think about the ways (or specific visualizations) you can make to be clear about the relation ships about your IVs and DV.
- 5. Next you can create these visualizations. (using any tool - Tableau or matplotlib)
- 6. Finally now when you are clear about your final list of IVs and their relationship with the DV, you can go ahead and model the problem with any of the machine learning algorithms.
+ 1. Being passionate about your problem - This allows you to put in the required amount of mental resources to actually think about the problem and formulate a problem statement. i.e a Specific, Measurable, Attainable, Relevant, Time bound **(SMART goal)**. For instance, if you aspire to come to USA to have a taste of real innovation, you might wonder about the most successful route of getting your VISA approved.
+ 2. After you are down with your problem statement, you should have a **dependent variable**, the variable you want to make conclusions about. Here it is Case Status.
+ 3. Followed by this you might want to think about the **independent variables**, the variables that would affect this dependent variable.
+ 4. Further you can go ahead and think about the ways (or specific **visualizations**) you can make to be clear about the relation ships about your IVs and DV.
+ 5. Going ahead down the line use a tool to create the planned visualizations and digest the overall theme of your data. It is important to be sure what your data says about your DV. This will help you to get a feel of fields you would want to use when you use ML algorithms to model your data.
+ 6. Finally now when you are clear about your final list of IVs and their relationship with the DV, you can go ahead and model the problem with any of the **machine learning algorithms**.
 
  The most important point - Since this is just a paradigm, it takes a lot of practice to master the skill. So be patient and be curious. <br>
  Be sure to have all the information in a mind map (SPAP). So that you can re iterate over it and continuously evolve it.
