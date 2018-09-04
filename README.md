@@ -1,6 +1,6 @@
 # US-VISA-Data-Analysis
 
-# Intention
+## Why am I creating this repo?
 This mini project is dedicated to proposing an [organized way](https://www.coursera.org/learn/analytics-tableau) of working though a Data Science. In my experience the only stand alone reason for the cloud around the definition of Data Science is actually the absence of a defined paradigm for solving the Data Science problem.<br>
 
  > For me Data Science is an art of first being passionate about your problem, understanding the problem statement, collecting the relevant data and analyze it to solve the problem at hand.
@@ -17,7 +17,7 @@ This mini project is dedicated to proposing an [organized way](https://www.cours
  The most important point - Since this is just a paradigm, it takes a lot of practice to master the skill. So be patient and be curious. <br>
  Be sure to have all the information in a mind map (SPAP). So that you can re iterate over it and continuously evolve it.
 
-## Introduction
+## Introducing the motivation
 When a US company wants to hire someone from outside of the United States for a technical
 position, they have to file an application to the United States government to get a green card or visa
 for the foreign applicant. These applications allow the US government to track who is entering and
@@ -50,10 +50,10 @@ Certification](http://www.foreignlaborcert.doleta.gov/performancedata.cfm).
     5.  Layer 5 : Is the reference to the conclusions drawn as mentioned in this mini report.
 
 
-### My Analysis of the data set.
+### My Analysis of the problem.
 
 List or related resources.
-1. The Tableau dashboard -
+1. The Tableau [dashboard](https://public.tableau.com/shared/32BSS87B3?:display_count=yes)
 2. [SPAP](https://github.com/gauscian/US-VISA-Data-Analysis/blob/master/What%20maximizes%20the%20chances%20of%20a%20US%20-%20VISA%20being%20Certified%20%20.png)
 
 The last layer of the SPAP defines the numbers I use here to conclude on my findings about the respective Independent variables.<br>
