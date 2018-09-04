@@ -11,8 +11,8 @@ This mini project is dedicated to proposing an [organized way](https://www.cours
  2. After you are down with your problem statement, you should have a **dependent variable**, the variable you want to make conclusions about. Here it is Case Status.
  3. Followed by this you might want to think about the **independent variables**, the variables that would affect this dependent variable.
  4. Further you can go ahead and think about the ways (or specific **visualizations**) you can make to be clear about the relation ships about your IVs and DV.
- 5. Going ahead down the line use a tool to create the planned visualizations and digest the overall theme of your data. It is important to be sure what your data says about your DV. This will help you to get a feel of fields you would want to use when you use ML algorithms to model your data.
- 6. Finally now when you are clear about your final list of IVs and their relationship with the DV, you can go ahead and model the problem with any of the **machine learning algorithms**.
+ 5. Going ahead down the line, use a tool to create the planned visualizations and digest the overall theme of your data. It is important to be sure what your data says about your DV. This will help you to get a feel of fields you would want to use when you use ML algorithms to model your data.
+ 6. Finally now that you are clear about your final list of IVs and their relationship with the DV, you can go ahead and model the problem with any of the **machine learning algorithms**.
 
  The most important point - Since this is just a paradigm, it takes a lot of practice to master the skill. So be patient and be curious. <br>
  Be sure to have all the information in a mind map (SPAP). So that you can re iterate over it and continuously evolve it.
@@ -49,7 +49,7 @@ Certification](http://www.foreignlaborcert.doleta.gov/performancedata.cfm).
     2.  Layer 2 : Dependent variable (Case status in our case).
     3.  Layer 3 : Independent varibles hypothesized to be associated with the Case Status variable.
     4.  Layer 4 : Describes the plan for the vizualizations to be created.
-    5.  Layer 5 : Is the reference to the conclusions drawn as mentioned in this mini report.
+    5.  Layer 5 : Is the reference to the conclusions drawn as mentioned in this report.
 
 
 ### My Analysis of the problem.
