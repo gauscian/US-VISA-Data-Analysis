@@ -42,7 +42,7 @@ Certification](http://www.foreignlaborcert.doleta.gov/performancedata.cfm).
 ## Analysis
 
 ### SPAP - (Structured Analysis Plan)
-[Here](https://github.com/gauscian/US-VISA-Data-Analysis/blob/master/What%20maximizes%20the%20chances%20of%20a%20US%20-%20VISA%20being%20Certified%20%20.png) is the SPAP for the above problem. This plan was prepared after a brief look into the data and imbibing the overall intuition of the data.
+[Here](https://github.com/gauscian/US-VISA-Data-Analysis/blob/master/%5BSPAP%5DWhat-maximizes-the-chances-of-a-US-VISA-being-Certified.png) is the SPAP for the above problem. This plan was prepared after a brief look into the data and imbibing the overall intuition of the data.
 #### Description of the SPAP :
     1.  Layer 1 : SMART GOAL of the analysis. Since the data I analyze is particularly skewed with respect to the Case Status field I only use the SMART goal for thinking about the possible Independent variables.
     2.  Layer 2 : Dependent variable (Case status in our case).
@@ -55,7 +55,7 @@ Certification](http://www.foreignlaborcert.doleta.gov/performancedata.cfm).
 
 List of related resources.
 1. [The Tableau dashboard](https://public.tableau.com/shared/32BSS87B3?:display_count=yes)
-2. [SPAP](https://github.com/gauscian/US-VISA-Data-Analysis/blob/master/What%20maximizes%20the%20chances%20of%20a%20US%20-%20VISA%20being%20Certified%20%20.png)
+2. [SPAP](https://github.com/gauscian/US-VISA-Data-Analysis/blob/master/%5BSPAP%5DWhat-maximizes-the-chances-of-a-US-VISA-being-Certified.png)
 
 The last layer of the SPAP defines the numbers I use here to conclude on my findings about the respective Independent variables.<br>
 
