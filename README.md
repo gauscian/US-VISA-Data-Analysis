@@ -1,5 +1,5 @@
 # US-VISA-Data-Analysis
-
+Quick look up : [The Tableau dashboard](https://public.tableau.com/shared/32BSS87B3?:display_count=yes), [SPAP](https://github.com/gauscian/US-VISA-Data-Analysis/blob/master/%5BSPAP%5DWhat-maximizes-the-chances-of-a-US-VISA-being-Certified.png)
 ## Why am I creating this repo?
 This mini project is dedicated to proposing an [organized way](https://www.coursera.org/learn/analytics-tableau) of working through a Data Science problem. I see Data Analysis as the most important part of a data science project. If you do not know your data well, you can never produce conclusive results. In addition to this it is particularly impossible to model a data effectively if you do know how your fields impact the target attribute. <br> Further, according to my observation the only stand alone reason for the cloud around the definition of Data Science is actually the absence of a defined paradigm for solving the Data Science problem. I think there isn't any. This method I am about to introduce will however help a beginner to at least approach a problem with some clarity in mind and be confident of the end product.<br>
 
