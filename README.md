@@ -30,7 +30,7 @@ called “the prevailing wage.” This publically available data provides a uniq
 of salaries you might encounter for different data–related jobs in the US.<br>
 
 *Skewed nature of the data* - makes the predictive modelling around case status impractical.<br>
-![here](https://github.com/gauscian/US-VISA-Data-Analysis/blob/master/Skewed-data-wrt-case-status.png)
+![here](tableau-exports/Skewed-data-wrt-case-status.png)
 
 
 
@@ -59,4 +59,15 @@ List of related resources.
 
 The last layer of the SPAP defines the numbers I use here to conclude on my findings about the respective Independent variables.<br>
 
+### Here are visualizations I created to digest the data
 
+1. Affect of Job Title Sub Group
+![here](tableau-exports/DoesJTBAffectCaseStatus.png)
+2. Distribution of VISA applications across States in USA
+![here](tableau-exports/DistributionOfVISAappsAcrossStates.png)
+3. Analyzing the relation between Case status and the VISA received date
+![here](tableau-exports/ReceviedDateForH1B.png)
+4. Affect of VISA type
+![here](tableau-exports/VISA type.png)
+5. Concluding analysis on underpaying which clearly show the US's labour attitude in protecting its labour class.
+![here](tableau-exports/PaidPrev.png)
