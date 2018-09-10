@@ -68,6 +68,6 @@ The last layer of the SPAP defines the numbers I use here to conclude on my find
 3. Analyzing the relation between Case status and the VISA received date
 ![here](tableau-exports/ReceviedDateForH1B.png)
 4. Affect of VISA type
-![here](tableau-exports/VISA type.png)
+![here](tableau-exports/VISAtype.png)
 5. Concluding analysis on underpaying which clearly show the US's labour attitude in protecting its labour class.
 ![here](tableau-exports/PaidPrev.png)
